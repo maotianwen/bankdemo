@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["incomerecord"],{b1bc:function(e,n,c){"use strict";c.r(n);var o=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("12345")])},r=[],t={name:"IncomeRecord"},a=t,i=c("2877"),s=Object(i["a"])(a,o,r,!1,null,"05d958ee",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=incomerecord.3a4c0931.js.map
